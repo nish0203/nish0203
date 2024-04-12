@@ -34,6 +34,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ProxideX/ProxideX/output/snake.svg" alt="Snake animation" />
-
 ###

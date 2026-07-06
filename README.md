@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋, I'm Danish!</h1>
 <img align="right" height="200" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"  />
-<h3 align="left">A passionate first-year student studying Computer Science in Malaysia.</h3>
+<h3 align="left">A passionate Second-year student studying Computer Science in Malaysia.</h3>
 - 🌱 Currently learning database and dsa.
 <h3 align="left">Languages 😼</h3>
 <div align="left">
